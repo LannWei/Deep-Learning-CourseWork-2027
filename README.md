@@ -1,4 +1,4 @@
-# Deep Learning Final Project 2026/27 – Tactile Perception
+# Deep Learning Final Project 2026/27 – Part A: Tactile Perception
 
 In this project you will train deep learning models on images from a **GelSight
 vision-based tactile sensor**. There are two tasks:
